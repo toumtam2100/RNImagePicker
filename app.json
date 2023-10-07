@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnImagePicker",
+    "slug": "rnImagePicker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnImagePicker"
+}
